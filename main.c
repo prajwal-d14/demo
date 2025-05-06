@@ -1,6 +1,13 @@
+#include <stdio.h>
 
-main () {
-	biggest ();
-	factorial ();
-	Natural ();
-}
+// Function declarations
+ int biggest();
+ int factorial();
+ int natural();
+ 
+ int main() {
+     biggest();
+     factorial();
+     natural();
+     return 0;
+     }                
