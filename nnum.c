@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+natural() {
 	int n, sum = 0;
 	printf("Enter a positive integer: ");
 	scanf("%d", &n);
@@ -9,6 +9,6 @@ int main() {
 		sum += i;
 
 	printf("Sum = %d\n", sum);
-	return 0;
+	//return 0;
 }
 

@@ -1,5 +1,6 @@
 
 main () {
-		biggest3();
-		factorial();
+	biggest ();
+	factorial ();
+	Natural ();
 }

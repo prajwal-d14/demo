@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+biggest() {
 	int a, b, c;
 
 	printf("Enter three integer numbers: ");
@@ -13,6 +13,6 @@ int main() {
 	else
 		printf("The biggest number is: %d\n", c);
 
-	return 0;
+	//return 0;
 }
 
