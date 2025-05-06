@@ -1,7 +1,5 @@
- Numops.exe: big3.o fact.o nnum.o main.o
-	gcc -o Numops.exe big3.o fact.o nnum.o main.o
- main.o:main.c
-	gcc -c main.c 
+ Numops.exe: big3.o fact.o nnum.o
+	gcc -o Numops.exe big3.o fact.o nnum.o
  big3.o:big3.c
 	gcc -c big3.c
  fact.0:fact.c
