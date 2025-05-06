@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int natural() {
 	int n, sum = 0;
 	printf("Enter a positive integer: ");
 	scanf("%d", &n);

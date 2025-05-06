@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int factorial() {
 	int n;
 	unsigned long long factorial = 1;
 
