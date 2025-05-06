@@ -3,7 +3,7 @@
 int biggest() {
 	int a, b, c;
 
-	printf("Enter three integer numbers: ");
+	printf("Enter four integer numbers: ");
 	scanf("%d %d %d", &a, &b, &c);
 
 	if (a >= b && a >= c)
